@@ -1,0 +1,1 @@
+Tous les codes ont été exécutés sous MacOS avec la dernière version de Scilab, la 6.0.1. Certains bouts de code sont incompatibles avec les versions antérieurs et inversement. Se réferer aux commentaires.
